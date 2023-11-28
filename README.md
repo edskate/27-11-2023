@@ -2,10 +2,10 @@
 
 Creation Of Customization Of Table Shaped Costumes.
 
-|   Date  |  Month   |  Task   |  Goal |   |     |     |     |     |     |
+|   Date  |  Month   |  Task   |  Goal | Time  |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  27-11-2023   |  November   |    |     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |     |     |     |
+|  28-11-2023   | November    |  Treino  | 11:00 ás 13:00    |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |     |     |
 
 
@@ -14,9 +14,9 @@ Creation Of Customization Of Table Shaped Costumes.
 Edy end Abizael
 
 
-|  November   |   Date  |   Start  |  End   |     |     |     |     |     |     |
+|  November   |   Date  |   Start  |  End   |  1   |  1   |     |     |     |     |
 |---     |  ---   |  ---   |  ---   | ---    |  --   |  --   | ---    | --    | --    |
-|     |     |     |     |     |     |     |     |     |     |
+|  AB-neto   | 27-11-2023    | 11:00     |   13:00  |  100%   | 100%    |     |     |     |     |
 |     |     |     |     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |     |     |
