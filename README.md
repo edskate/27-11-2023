@@ -23,7 +23,7 @@ Edy end Abizael
 |  EDy    |  05-12-2023   |   19:00  |  08:00   |  100%   |     |     |     |     |     |
 |  Edy    |  11-12-2023 Alinhmento.   |  11:30    | 12:20    | 100%    |  Asistente   | Pata    |     |     |     |
 | Edy    | 12-12-2023 Alinhamento.   |  11:45    | 12:00    |  50%   |  Sozinho   |  Sem Tecnico de Som  |     |     |     |
-|     |     |     |     |     |     |     |     |     |     |
+| Edy & Abizael     |  17/12/2023 Extreia  |  21:40   |    |  80%   |  Dupla   |   Centralização de luz   | Andamento    |     |     |
 |     |     |     |     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |     |     |
