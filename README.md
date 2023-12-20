@@ -24,7 +24,7 @@ Edy end Abizael
 |  Edy    |  11-12-2023 Alinhmento.   |  11:30    | 12:20    | 100%    |  Asistente   | Pata    |     |     |     |
 | Edy    | 12-12-2023 Alinhamento.   |  11:45    | 12:00    |  50%   |  Sozinho   |  Sem Tecnico de Som  |     |     |     |
 | Edy & Abizael     |  17/12/2023 Extreia  |  21:40   |    |  80%   |  Dupla   |   Centralização de luz   | Andamento    |     |     |
-|     |     |     |     |     |     |     |     |     |     |
+|  Edy Abizael e Felipe   | 19:12 /Ensaio     | 09:30    | 12:00 100%💯 +  Felipe 80%    |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |     |     |
